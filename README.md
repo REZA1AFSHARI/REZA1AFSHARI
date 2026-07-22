@@ -2,7 +2,7 @@
 
 I'm Reza Afshari
 
-Ph.D. | Aerodynamics Engineer | Senior R&D Engineer
+Ph.D. | Aerodynamics Engineer | CFD Researcher | Senior R&D Engineer
 
 I specialize in:
 
