@@ -19,18 +19,8 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 ## Publications
 
-- 📄 **First author** – *A new blade tip geometry to improve aerodynamic performance and acoustic noise of helicopter blade in hovering flight*  
-  *Aerospace Science and Technology* (Elsevier), 2023  
-  🔗 https://doi.org/10.1016/j.ast.2023.108197
-
-- 📄 **First author** – *Numerical investigation on the use of various blade tips for the helicopter's main rotor blade in forward flight regarding aerodynamic performance and HSI noise considerations*  
-  *Aerospace Science and Technology* (Elsevier), 2024  
-  🔗 https://doi.org/10.1016/j.ast.2024.109142
-
-- 📄 *National Journal Article*  
-  *Modares Mechanical Engineering Journal*  
-  🔗 https://www.sid.ir/paper/178904/en
-
+- 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier) ([Article 1-2023](https://doi.org/10.1016/j.ast.2023.108197) | [Article 2-2024](https://doi.org/10.1016/j.ast.2024.109142))
+- 📄 Author of **1 national journal article** [Article](https://www.sid.ir/paper/178904/en)
 - 📄 Author or co-author of **4 conference papers**
 
 ## Programming & Technical Skills
