@@ -31,7 +31,8 @@ C,
 C#,
 CATIA,
 SOLIDWORKS,
-DELMIA,
-Working Model
+Working Model,
+DELMIA
+
 
 📫 Email: Reza.afshari@aut.ac.ir
