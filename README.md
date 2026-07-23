@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## I'm Reza Afshari
+# Hi, I'm Reza Afshari 👋
 
 [Google Scholar](https://scholar.google.com/citations?user=jVjW4GQAAAAJ) •
 [LinkedIn](https://www.linkedin.com/in/reza-afshari-642b7923a/) •
