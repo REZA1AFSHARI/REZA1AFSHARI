@@ -42,8 +42,6 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 - UDF Development for ANSYS Fluent
 - Scientific Computing and Numerical Methods
 
----
-
 ## Contact
 
 I welcome opportunities for research collaboration, academic discussions, and innovative engineering projects.
