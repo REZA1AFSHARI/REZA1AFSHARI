@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 ## Research Interests
 
 - Computational Fluid Dynamics (CFD)
-- Rotorcraft Aerodynamics
+- Aerodynamics
 - Aeroacoustics
 - Turbulence Modeling (RANS/LES)
 - High-Fidelity CFD
