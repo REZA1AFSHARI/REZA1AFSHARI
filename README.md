@@ -24,9 +24,14 @@ Publications
 Programming & Software:
 MATLAB,
 ANSYS Fluent,
+Star-CCM+,
+Tecplot,
+ICEM CFD,
 C,
 C#,
 CATIA,
-Tecplot
+SOLIDWORKS,
+DELMIA,
+Working Model
 
 📫 Email: Reza.afshari@aut.ac.ir
