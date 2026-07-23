@@ -44,6 +44,8 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 ---
 
+## Contact
+
 I welcome opportunities for research collaboration, academic discussions, and innovative engineering projects.
 
 📫 **Email:** Reza.afshari@aut.ac.ir
