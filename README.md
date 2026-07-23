@@ -2,37 +2,41 @@
 
 I'm Reza Afshari
 
-Ph.D. | Aerodynamics Engineer | CFD Researcher | Senior R&D Engineer
+Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics (CFD), rotorcraft aerodynamics, aeroacoustics, turbulence modeling, and engineering software development. This repository showcases my research projects, MATLAB codes, ANSYS Fluent UDFs, and engineering applications.
 
-I specialize in:
+## Research Interests
 
-Computational Fluid Dynamics (CFD)
-Rotorcraft Aerodynamics
-Aeroacoustics
-Turbulence Modeling (RANS/LES)
-Flow Physics
-Research Interests
-Helicopter Rotor Aerodynamics
-High-Fidelity CFD
-Aeroacoustics
-Blade Design
-Turbulence Modeling
-Publications
-2× Q1 Journal Articles (Aerospace Science and Technology)
-1 National Journal Article
-4 Conference Papers.
-Programming & Software:
-MATLAB,
-ANSYS Fluent,
-Star-CCM+,
-Tecplot,
-ICEM CFD,
-C,
-C#,
-CATIA,
-SOLIDWORKS,
-Working Model,
-DELMIA
+- Computational Fluid Dynamics (CFD)
+- Rotorcraft Aerodynamics
+- Aeroacoustics
+- Turbulence Modeling (RANS/LES)
+- High-Fidelity CFD
+- Flow Physics
+- Blade Design and Optimization
 
+## Publications
+
+- 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology (Elsevier)*
+- 📄 **1 National Journal Article**
+- 📄 **4 Conference Papers**
+
+## Programming & Technical Skills
+
+- **Programming:** MATLAB, C, C#, Python
+- **ANSYS Fluent UDF Development (C Programming)**
+- **CFD:** ANSYS Fluent, Star-CCM+, ICEM CFD, Tecplot
+- **CAD & Engineering Design:** CATIA, SOLIDWORKS 
+- **Engineering Simulation:** Working Model, DELMIA
+
+## Current Interests
+
+- High-Fidelity CFD
+- Rotorcraft Aerodynamics
+- Large Eddy Simulation (LES)
+- Aeroacoustics
+- UDF Development for ANSYS Fluent
+- Scientific Computing and Numerical Methods
+
+I welcome opportunities for research collaboration, academic discussions, and innovative engineering projects.
 
 📫 Email: Reza.afshari@aut.ac.ir
