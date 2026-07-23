@@ -22,11 +22,11 @@ Publications
 1 National Journal Article
 4 Conference Papers
 Programming & Software
-MATLAB
-ANSYS Fluent
-C
-C#
-CATIA
+MATLAB,
+ANSYS Fluent,
+C,
+C#,
+CATIA,
 Tecplot
 
 📫 Email: Reza.afshari@aut.ac.ir
