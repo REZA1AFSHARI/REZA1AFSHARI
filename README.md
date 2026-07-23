@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## I'm Reza Afshari
 
@@ -7,7 +7,7 @@
 [ResearchGate](https://www.researchgate.net/profile/Reza_Afshari5) •
 [ORCID](https://orcid.org/0009-0000-1850-9620)
 
-Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics (CFD), Aerodynamics, Aeroacoustics, Turbulence Modeling, and Engineering Software Development. This profile showcases my research projects, MATLAB codes, ANSYS Fluent UDFs, and engineering applications.
+Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics (CFD), aerodynamics, aeroacoustics, turbulence modeling, and engineering software development. This profile showcases my research projects, MATLAB codes, ANSYS Fluent UDFs, and engineering applications.
 
 ## Research Interests
 
@@ -22,14 +22,14 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 ## Publications
 
 - 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
-- 📄 **1 National Journal Article**
-- 📄 **4 Conference Papers**
+- 📄 Author of **1 national journal article**
+- 📄 Author or co-author of **4 conference papers**
 
 ## Programming & Technical Skills
 
 - **Programming:** MATLAB, C, C#
-- **CFD:** ANSYS Fluent, Star-CCM+, ICEM CFD, Tecplot
 - **ANSYS Fluent UDF Development (C Programming)**
+- **CFD:** ANSYS Fluent, Star-CCM+, ICEM CFD, Tecplot
 - **CAD & Engineering Design:** CATIA, SOLIDWORKS
 - **Engineering Simulation:** Working Model, DELMIA
 
