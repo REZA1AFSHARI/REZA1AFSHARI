@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 ## Publications
 
-- 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier) ([Article 1-2023](https://doi.org/10.1016/j.ast.2023.108197) | [Article 2-2024](https://doi.org/10.1016/j.ast.2024.109142))
-- 📄 Author of **1 national journal article** [Article](https://www.sid.ir/paper/178904/en)
+- 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier) ([Article 1 – 2023](https://doi.org/10.1016/j.ast.2023.108197) | [Article 2 – 2024](https://doi.org/10.1016/j.ast.2024.109142))
+- 📄 Author of **1 national journal article** ([Article](https://www.sid.ir/paper/178904/en))
 - 📄 Author or co-author of **4 conference papers**
 
 ## Programming & Technical Skills
