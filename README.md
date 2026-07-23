@@ -20,8 +20,8 @@ Turbulence Modeling
 Publications
 2× Q1 Journal Articles (Aerospace Science and Technology)
 1 National Journal Article
-4 Conference Papers
-Programming & Software
+4 Conference Papers.
+Programming & Software:
 MATLAB,
 ANSYS Fluent,
 C,
