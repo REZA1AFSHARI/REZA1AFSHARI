@@ -51,20 +51,6 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 | **Optimization**        | ![GA](https://img.shields.io/badge/Genetic-Algorithm-purple) ![ACO](https://img.shields.io/badge/Ant-Colony-brown)                                                                                                                             |
 | **CAD**                 | ![CATIA](https://img.shields.io/badge/CATIA-blue) ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-red)                                                                                                                                   |
 | **Version Control**     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)                                                                                   |
-| **Skills**                   | **Technologies**                                                                |
-| ---------------------------- | ------------------------------------------------------------------------------- |
-| **Programming**              | MATLAB, C, C#, Python                                                           |
-| **CFD**                      | ANSYS Fluent, Star-CCM+, ICEM CFD, Tecplot                                      |
-| **Numerical Methods**        | Finite Volume Method (FVM), RANS, URANS, LES                                    |
-| **Aerodynamics**             | Rotorcraft Aerodynamics, Blade Design, Tip-Vortex Analysis                      |
-| **Aeroacoustics**            | FW-H Method, High-Speed Impulsive Noise (HSI)                                   |
-| **Engineering Optimization** | Genetic Algorithm (GA), Ant Colony Optimization (ACO), Engineering Optimization |
-| **CAD & Design**             | CATIA, SOLIDWORKS                                                               |
-| **Engineering Simulation**   | Working Model, DELMIA                                                           |
-| **Scientific Computing**     | UDF Development, Numerical Analysis, ODE Solvers                                |
-| **Version Control**          | Git, GitHub                                                                     |
-| **Editors / IDEs**           | Visual Studio, VS Code, MATLAB Editor                                           |
-
 
 ## Current Interests
 
