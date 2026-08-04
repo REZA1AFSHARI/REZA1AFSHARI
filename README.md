@@ -1,5 +1,10 @@
 # Hi, I'm Reza Afshari 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-afshari-642b7923a/)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jVjW4GQAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Reza_Afshari5)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1850-9620)
+
 [Google Scholar](https://scholar.google.com/citations?user=jVjW4GQAAAAJ) •
 [LinkedIn](https://www.linkedin.com/in/reza-afshari-642b7923a/) •
 [ResearchGate](https://www.researchgate.net/profile/Reza_Afshari5)
