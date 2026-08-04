@@ -45,6 +45,17 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 - **CAD & Engineering Design:** CATIA, SOLIDWORKS
 - **Engineering Simulation:** Working Model, DELMIA
 
+| **Skills**              | **Technologies**                                                                                                                                                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming**         | ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=Mathworks\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp\&logoColor=white)         |
+| **CFD**                 | ![ANSYS Fluent](https://img.shields.io/badge/ANSYS-Fluent-yellow) ![Star-CCM+](https://img.shields.io/badge/Star--CCM+-blue) ![ICEM CFD](https://img.shields.io/badge/ICEM-CFD-lightgrey) ![Tecplot](https://img.shields.io/badge/Tecplot-red) |
+| **Turbulence Modeling** | ![RANS](https://img.shields.io/badge/RANS-blue) ![URANS](https://img.shields.io/badge/URANS-green) ![LES](https://img.shields.io/badge/LES-orange)                                                                                             |
+| **Aerodynamics**        | ![Rotorcraft](https://img.shields.io/badge/Rotorcraft-Aerodynamics-blue) ![Aeroacoustics](https://img.shields.io/badge/Aeroacoustics-red) ![Blade Design](https://img.shields.io/badge/Blade-Design-success)                                   |
+| **Optimization**        | ![GA](https://img.shields.io/badge/Genetic-Algorithm-purple) ![ACO](https://img.shields.io/badge/Ant-Colony-brown)                                                                                                                             |
+| **CAD**                 | ![CATIA](https://img.shields.io/badge/CATIA-blue) ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-red)                                                                                                                                   |
+| **Version Control**     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)                                                                                   |
+
+
 ## Current Interests
 
 - High-Fidelity CFD
