@@ -18,9 +18,25 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 ## Publications
 
-- 📄 First author of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier) ([Article 1 – 2023](https://doi.org/10.1016/j.ast.2023.108197) | [Article 2 – 2024](https://doi.org/10.1016/j.ast.2024.109142))
-- 📄 Author of **1 national journal article** ([Article](https://www.sid.ir/paper/178904/en))
-- 📄 Author or co-author of **4 conference papers**
+## Publications & Theses
+
+- 📄 **First author** of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
+  - [Article 1 (2023)](https://doi.org/10.1016/j.ast.2023.108197)
+  - [Article 2 (2024)](https://doi.org/10.1016/j.ast.2024.109142)
+
+- 📄 **Author** of **1 national journal article**
+  - [Modares Mechanical Engineering Journal](https://www.sid.ir/paper/178904/en)
+
+- 📄 **Author or co-author** of **4 conference papers**
+
+- 🎓 **Ph.D. Dissertation**
+  - *Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise*
+
+- 🎓 **M.Sc. Thesis**
+  - *Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics*
+
+- 🎓 **B.Sc. Final Project**
+  - *Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces*
 
 ## Programming & Technical Skills
 
