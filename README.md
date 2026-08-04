@@ -3,7 +3,6 @@
 [Google Scholar](https://scholar.google.com/citations?user=jVjW4GQAAAAJ) •
 [LinkedIn](https://www.linkedin.com/in/reza-afshari-642b7923a/) •
 [ResearchGate](https://www.researchgate.net/profile/Reza_Afshari5) •
-[ORCID](https://orcid.org/0009-0000-1850-9620)
 
 Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics (CFD), aerodynamics, aeroacoustics, turbulence modeling, engineering optimization, and software development. This profile showcases my research projects, MATLAB codes, ANSYS Fluent UDFs, and engineering applications.
 
