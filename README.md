@@ -39,12 +39,6 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 ## Programming & Technical Skills
 
-- **Programming:** MATLAB, C, C#
-- **ANSYS Fluent UDF Development (C Programming)**
-- **CFD:** ANSYS Fluent, Star-CCM+, ICEM CFD, Tecplot
-- **CAD & Engineering Design:** CATIA, SOLIDWORKS
-- **Engineering Simulation:** Working Model, DELMIA
-
 | **Skills**              | **Technologies**                                                                                                                                                                                                                               |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Programming**         | ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=Mathworks\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp\&logoColor=white)         |
