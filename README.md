@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 - Flow Physics
 - Aerodynamic Design and Optimization
 
-## Publications
-
 ## Publications & Theses
 
 - 📄 **First author** of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
