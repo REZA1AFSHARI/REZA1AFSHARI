@@ -1,6 +1,11 @@
 # Hi, I'm Reza Afshari 👋
 
 ### Ph.D. in Aerodynamics | Amirkabir University of Technology (Tehran Polytechnic)
+
+[![AUT](https://img.shields.io/badge/Amirkabir%20University%20of%20Technology-003366?style=for-the-badge)](https://aut.ac.ir)
+
+[![Pars Khodro](https://img.shields.io/badge/Pars%20Khodro-Senior%20R%26D%20Engineer-blue?style=for-the-badge)](https://www.parskhodro.ir)
+
 ### CFD Researcher | Aeroacoustics | Senior R&D Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-afshari-642b7923a/)
