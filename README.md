@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
   - 🔗 [Article 2 (2024)](https://doi.org/10.1016/j.ast.2024.109142)
 
 - **Author** of **1 national journal article** published in *Journal of Modares Mechanical Engineering*
-  - 🔗 [Publisher](https://mme.modares.ac.ir/article_9666.html) | [SID](https://www.sid.ir/paper/178904/en)
+  - 🔗 [SID](https://www.sid.ir/paper/178904/en)
 
 ### 📑 Conference Papers
 
