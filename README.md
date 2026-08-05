@@ -20,30 +20,34 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 - Flow Physics
 - Aerodynamic Design and Optimization
 
-## Publications & Theses
+## 📚 Publications & Theses
 
-- 📄 **First author** of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
+### 📄 Journal Articles
+
+- **First author** of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
   - [Article 1 (2023)](https://doi.org/10.1016/j.ast.2023.108197)
   - [Article 2 (2024)](https://doi.org/10.1016/j.ast.2024.109142)
 
-- 📄 **Author** of **1 national journal article** published in *Journal of Modares Mechanical Engineering*
-  - [Publisher](https://mme.modares.ac.ir/article_9666.html) | [SID](https://www.sid.ir/paper/178904/en)
+- **Author** of **1 national journal article** published in *Journal of Modares Mechanical Engineering*
+  - [SID](https://www.sid.ir/paper/178904/en)
 
-- 📄 **Author or co-author** of **4 conference papers**
+### 📄 Conference Papers
 
+- **Author or co-author** of **4 conference papers**
 
-### 🎓 Ph.D. Thesis
-**Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise**  
+### 🎓 Academic Theses
+
+**Ph.D. Thesis**  
+*Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise*  
 **Grade:** 20/20 *(Highest Evaluation)*
 
-### 🎓 M.Sc. Thesis
-**Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics**  
+**M.Sc. Thesis**  
+*Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics*  
 **Grade:** 19.66/20
 
-### 🎓 B.Sc. Final Project
-**Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces**  
+**B.Sc. Final Project**  
+*Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces*  
 **Grade:** 20/20
-
 ## Programming & Technical Skills
 
 | **Skills**              | **Technologies**                                                                                                                                                                                                                               |
