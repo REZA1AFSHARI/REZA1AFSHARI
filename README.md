@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 - 📄 **Author or co-author** of **4 conference papers**
 
-### 🎓 Ph.D. Dissertation
+### 🎓 Ph.D. Thesis
 **Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise**  
 *Dissertation Grade: 20/20 (Highest Evaluation)*
 
