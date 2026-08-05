@@ -25,13 +25,13 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 ### 📄 Journal Articles
 
 - **First author** of **2 Q1 journal articles** published in *Aerospace Science and Technology* (Elsevier)
-  - [Article 1 (2023)](https://doi.org/10.1016/j.ast.2023.108197)
-  - [Article 2 (2024)](https://doi.org/10.1016/j.ast.2024.109142)
+  - 🔗 Article 1 (2023)
+  - 🔗 Article 2 (2024)
 
- 📄 **Author** of **1 national journal article** published in *Journal of Modares Mechanical Engineering*
-  - [Publisher](https://mme.modares.ac.ir/article_9666.html) | [SID](https://www.sid.ir/paper/178904/en)
+- **Author** of **1 national journal article** published in *Journal of Modares Mechanical Engineering*
+  - 🔗 [Publisher](https://mme.modares.ac.ir/article_9666.html) | [SID](https://www.sid.ir/paper/178904/en)
 
-### 📄 Conference Papers
+### 📑 Conference Papers
 
 - **Author or co-author** of **4 conference papers**
 
@@ -39,15 +39,16 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 **Ph.D. Thesis**  
 *Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise*  
-**Grade:** 20/20 *(Highest Evaluation)*
+⭐ **Grade:** 20/20 *(Highest Evaluation)*
 
 **M.Sc. Thesis**  
 *Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics*  
-**Grade:** 19.66/20
+⭐ **Grade:** 19.66/20
 
 **B.Sc. Final Project**  
 *Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces*  
-**Grade:** 20/20
+⭐ **Grade:** 20/20
+
 ## Programming & Technical Skills
 
 | **Skills**              | **Technologies**                                                                                                                                                                                                                               |
