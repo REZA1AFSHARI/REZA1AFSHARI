@@ -3,8 +3,6 @@
 ### Ph.D. in Aerodynamics | Amirkabir University of Technology (Tehran Polytechnic)
 [![AUT](https://img.shields.io/badge/Amirkabir%20University%20of%20Technology-003366?style=for-the-badge)](https://aut.ac.ir/en)
 ### CFD Researcher | Aeroacoustics | Senior R&D Engineer 
-[![Pars Khodro](https://img.shields.io/badge/Pars%20Khodro-Automotive-blue?style=for-the-badge)](https://www.parskhodro.ir/en)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-afshari-642b7923a/)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jVjW4GQAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Reza_Afshari5)
