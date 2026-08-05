@@ -31,17 +31,18 @@ Welcome to my GitHub profile! I am passionate about Computational Fluid Dynamics
 
 - 📄 **Author or co-author** of **4 conference papers**
 
+
 ### 🎓 Ph.D. Thesis
-  - **Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise**  
-  - *Dissertation Grade: 20/20 (Highest Evaluation)*
+**Modifying the Geometry of the Blade Tip of Helicopter's Main Rotor to Improve Aerodynamic Coefficients and Reduce Acoustic Noise**  
+**Grade:** 20/20 *(Highest Evaluation)*
 
 ### 🎓 M.Sc. Thesis
-  -**Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics**  
-  -*Dissertation Grade: 19.66/20*
+**Numerical Investigation of Helicopter Main Rotor Blade Tip Geometry on Aerodynamic Performance and Tip-Vortex Characteristics**  
+**Grade:** 19.66/20
 
 ### 🎓 B.Sc. Final Project
-  -**Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces**  
-  -*Final Project Grade: 20/20*
+**Dynamic Analysis and Simulation of Solar System Planets Moving under Gravitational Forces**  
+**Grade:** 20/20
 
 ## Programming & Technical Skills
 
